@@ -1,2 +1,0 @@
-# human-code
-diciottesimo esercizio
